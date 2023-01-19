@@ -7,7 +7,8 @@ h1 {
 
 body {
     height: 100vh;
-    background: linear-gradient(180deg, #FF9A8B, #FF6A88, #FF99AC);
+    background: #000000;
+    margin: 0;
 
 }
 
