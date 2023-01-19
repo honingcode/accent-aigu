@@ -1,0 +1,25 @@
+h1 {
+    font-family: neue-haas-grotesk-display, sans-serif;
+    color: white;
+    margin-top: 0;
+    font-size: 36px;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(180deg, #FF9A8B, #FF6A88, #FF99AC);
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.logo {
+    width: 250px;
+    margin-bottom: -10px;
+}
