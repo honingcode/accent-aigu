@@ -2,7 +2,7 @@ h1 {
     font-family: neue-haas-grotesk-display, sans-serif;
     color: white;
     margin-top: 0;
-    font-size: 36px;
+    font-size: 28px;
 }
 
 body {
@@ -20,7 +20,3 @@ body {
     height: 100vh;
 }
 
-.logo {
-    width: 250px;
-    margin-bottom: -10px;
-}
