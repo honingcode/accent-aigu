@@ -1,7 +1,9 @@
-body, html {
-    overflow: hidden
+html, body {
+    overflow-x: hidden;
   }
-
+  body {
+    position: relative;
+  }
 
 body {
     color: white;
